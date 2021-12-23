@@ -11,6 +11,7 @@ Continuing...
 
 *[Prof. Ilya Shpitser](https://www.cs.jhu.edu/~ilyas/) (Johns Hopkins University)*  
 
+also for the cooperation and joint efforts from the co-authors (Mengmeng Liu, Anzhe Xiao and Zepeng Hu) of this report.
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
